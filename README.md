@@ -2,7 +2,7 @@
 This is a simple online chess game playable on website where people can play against each other in real time. 
 
 # Links
-Play a game of chess here - [Live demo](https://noobscreation-chess.herokuapp.com) 
+Play a game of chess here - [Live](http://noobscreation-online-chess.herokuapp.com) 
 
 # Features
 <ul>
